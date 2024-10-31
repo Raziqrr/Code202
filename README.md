@@ -14,10 +14,10 @@ Greenr is a gamified climate educational and empowerment app developed to make l
 
 **Built With**
 
-Android Studio
-Flutter
-Dart
-Firebase
+1. Android Studio 
+2. Flutter Framework
+3. Dart language
+4. Firebase
 
 
 **Dependencies**
