@@ -1,0 +1,258 @@
+[
+  {
+    "id": "chal001",
+    "name": "Switch to Reusable Bags",
+    "co2": 0.6,
+    "description": "Transition from plastic bags to reusable ones to reduce plastic waste.",
+    "categories": [
+      "Home"
+    ],
+    "difficulty": "Easy",
+    "task": "Start using reusable bags for your shopping trips.",
+    "tips": [
+      "Keep reusable bags in your car or by the door.",
+      "Choose bags made from sustainable materials."
+    ],
+    "imagePath": "/images/reusable_bags.jpg",
+    "ngo": "Plastic Pollution Coalition"
+  },
+  {
+    "id": "chal002",
+    "name": "Plant a Tree",
+    "co2": 22.0,
+    "description": "Plant a tree to help absorb CO2 from the atmosphere.",
+    "categories": [
+      "Stuff"
+    ],
+    "difficulty": "Easy",
+    "task": "Find a suitable location and plant a native tree.",
+    "tips": [
+      "Research the best trees for your local climate.",
+      "Consider involving friends or family in the planting."
+    ],
+    "imagePath": "/images/plant_a_tree.jpg",
+    "ngo": "Trees for the Future"
+  },
+  {
+    "id": "chal003",
+    "name": "Start a Compost Bin",
+    "co2": 0.1,
+    "description": "Reduce food waste by starting a compost bin at home.",
+    "categories": [
+      "Food",
+      "Home"
+    ],
+    "difficulty": "Easy",
+    "task": "Set up a compost bin for kitchen scraps and yard waste.",
+    "tips": [
+      "Balance green and brown materials in your compost.",
+      "Turn the compost regularly to aerate it."
+    ],
+    "imagePath": "/images/compost_bin.jpg",
+    "ngo": "Composting Association"
+  },
+  {
+    "id": "chal004",
+    "name": "Use Energy-Efficient Light Bulbs",
+    "co2": 0.5,
+    "description": "Switch to LED or CFL bulbs to reduce energy consumption.",
+    "categories": [
+      "Home"
+    ],
+    "difficulty": "Easy",
+    "task": "Replace all incandescent bulbs with energy-efficient ones.",
+    "tips": [
+      "Look for Energy Star certified products.",
+      "Consider the brightness (lumens) and color temperature."
+    ],
+    "imagePath": "/images/energy_efficient_bulbs.jpg",
+    "ngo": "Energy Star"
+  },
+  {
+    "id": "chal005",
+    "name": "Make Homemade Cleaning Products",
+    "co2": 0.0,
+    "description": "Create eco-friendly cleaning solutions using natural ingredients.",
+    "categories": [
+      "Home",
+      "Stuff"
+    ],
+    "difficulty": "Medium",
+    "task": "Use vinegar, baking soda, and essential oils to clean your home.",
+    "tips": [
+      "Avoid harsh chemicals that harm the environment.",
+      "Label your homemade products clearly."
+    ],
+    "imagePath": "/images/homemade_cleaning_products.jpg",
+    "ngo": "Earth Friendly Products"
+  },
+  {
+    "id": "chal006",
+    "name": "Use Public Transport",
+    "co2": 1.2,
+    "description": "Reduce your carbon footprint by using public transportation instead of driving.",
+    "categories": [
+      "Transport"
+    ],
+    "difficulty": "Easy",
+    "task": "Choose public transport options for your daily commute.",
+    "tips": [
+      "Plan your routes in advance.",
+      "Consider carpooling with others if public transport isn’t an option."
+    ],
+    "imagePath": "/images/public_transport.jpg",
+    "ngo": "Transportation Alternatives"
+  },
+  {
+    "id": "chal007",
+    "name": "Track Your Carbon Footprint",
+    "co2": 0.0,
+    "description": "Use a carbon footprint calculator to understand your environmental impact.",
+    "categories": [
+      "Home"
+    ],
+    "difficulty": "Medium",
+    "task": "Input your daily activities to calculate your carbon footprint.",
+    "tips": [
+      "Keep track of your energy and water usage.",
+      "Look for patterns and identify areas to improve."
+    ],
+    "imagePath": "/images/carbon_footprint_tracker.png",
+    "ngo": "Carbon Trust"
+  },
+  {
+    "id": "chal008",
+    "name": "Start a Neighborhood Clean-Up Campaign",
+    "co2": 0.5,
+    "description": "Organize a local clean-up event to remove litter from your community.",
+    "categories": [
+      "Home","Stuff"
+    ],
+    "difficulty": "Medium",
+    "task": "Gather volunteers to help clean up local parks or streets.",
+    "tips": [
+      "Provide gloves and trash bags for volunteers.",
+      "Promote the event on social media to attract more participants."
+    ],
+    "imagePath": "/images/neighborhood_cleanup.jpg",
+    "ngo": "Keep America Beautiful"
+  },
+  {
+    "id": "chal009",
+    "name": "Reduce Single-Use Plastic",
+    "co2": 1.0,
+    "description": "Make an effort to minimize the use of single-use plastics in your daily life.",
+    "categories": [
+      "Home"
+    ],
+    "difficulty": "Medium",
+    "task": "Identify and eliminate single-use plastic items in your home.",
+    "tips": [
+      "Use reusable containers and utensils.",
+      "Opt for products with minimal or no plastic packaging."
+    ],
+    "imagePath": "/images/reduce_plastic.jpg",
+    "ngo": "Surfrider Foundation"
+  },
+  {
+    "id": "chal010",
+    "name": "Energy Efficient Home Lighting",
+    "co2": 1.5,
+    "description": "Implement energy-efficient lighting solutions in your home.",
+    "categories": [
+      "Home"
+    ],
+    "difficulty": "Medium",
+    "task": "Replace old bulbs and install motion sensors.",
+    "tips": [
+      "Consider using dimmer switches to save energy.",
+      "Maximize natural light during the day."
+    ],
+    "imagePath": "/images/home_lighting.jpg",
+    "ngo": "Alliance to Save Energy"
+  },
+  {
+    "id": "chal011",
+    "name": "Create a Personal Sustainability Plan",
+    "co2": 0.0,
+    "description": "Develop a plan to integrate sustainable practices into your lifestyle.",
+    "categories": [
+      "Home"
+    ],
+    "difficulty": "Medium",
+    "task": "Outline goals for reducing your environmental impact.",
+    "tips": [
+      "Set specific and achievable goals.",
+      "Review and adjust your plan regularly."
+    ],
+    "imagePath": "/images/sustainability_plan.jpg",
+    "ngo": "Sustainability Institute"
+  },
+  {
+    "id": "chal012",
+    "name": "Set Up a Community Tool Library",
+    "co2": 0.3,
+    "description": "Create a tool library for your community to reduce the need for individual purchases.",
+    "categories": [
+      "Stuff"
+    ],
+    "difficulty": "Medium",
+    "task": "Gather tools and set up a sharing system.",
+    "tips": [
+      "Encourage community members to donate tools.",
+      "Organize workshops on tool usage and maintenance."
+    ],
+    "imagePath": "/images/tool_library.jpg",
+    "ngo": "Tool Library Network"
+  },
+  {
+    "id": "chal013",
+    "name": "Build a Solar Charger",
+    "co2": 1.0,
+    "description": "Create a solar charger to power small devices using renewable energy.",
+    "categories": [
+      "Home"
+    ],
+    "difficulty": "Hard",
+    "task": "Assemble a solar charger using solar panels and batteries.",
+    "tips": [
+      "Follow tutorials for guidance on components.",
+      "Test the charger before use."
+    ],
+    "imagePath": "/images/solar_charger.jpg",
+    "ngo": "Solar Energy International"
+  },
+  {
+    "id": "chal014",
+    "name": "DIY Solar Panel Installation",
+    "co2": 10.0,
+    "description": "Install solar panels on your home to harness renewable energy.",
+    "categories": [
+      "Home"
+    ],
+    "difficulty": "Hard",
+    "task": "Research and install solar panels to generate electricity.",
+    "tips": [
+      "Home"
+    ],
+    "imagePath": "/images/solar_panel_installation.jpg",
+    "ngo": "American Solar Energy Society"
+  },
+  {
+    "id": "chal015",
+    "name": "Design an Energy-Efficient Room",
+    "co2": 3.0,
+    "description": "Create a room design focused on energy efficiency.",
+    "categories": [
+      "Home"
+    ],
+    "difficulty": "Hard",
+    "task": "Implement design principles that enhance energy efficiency.",
+    "tips": [
+      "Incorporate passive solar design.",
+      "Use energy-efficient appliances and fixtures."
+    ],
+    "imagePath": "/images/energy_efficient_room.jpg",
+    "ngo": "Green Building Council"
+  }
+]

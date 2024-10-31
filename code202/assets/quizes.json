@@ -1,0 +1,278 @@
+[
+  {
+    "id": "quiz001",
+    "questions": [
+      {
+        "id": "question001",
+        "questionTitle": "What is the primary cause of accelerated climate change?",
+        "answerChoices": ["Natural weather cycles", "Human activities", "Solar flares", "Volcanic eruptions"],
+        "correctAnswer": "Human activities"
+      },
+      {
+        "id": "question002",
+        "questionTitle": "What is the greenhouse effect?",
+        "answerChoices": ["A process that cools the Earth", "The trapping of heat in the atmosphere by greenhouse gases", "A method of growing plants indoors", "A type of weather phenomenon"],
+        "correctAnswer": "The trapping of heat in the atmosphere by greenhouse gases"
+      },
+      {
+        "id": "question003",
+        "questionTitle": "Which of the following is NOT a greenhouse gas?",
+        "answerChoices": ["Carbon dioxide (CO₂)", "Methane (CH₄)", "Oxygen (O₂)", "Nitrous oxide (N₂O)"],
+        "correctAnswer": "Oxygen (O₂)"
+      }
+    ]
+  },
+  {
+    "id": "quiz002",
+    "questions": [
+      {
+        "id": "question004",
+        "questionTitle": "What is the greenhouse effect?",
+        "answerChoices": ["A process that cools the Earth", "A natural process that warms the Earth’s surface", "A method to reduce greenhouse gases", "A type of weather condition"],
+        "correctAnswer": "A natural process that warms the Earth’s surface"
+      },
+      {
+        "id": "question005",
+        "questionTitle": "Which of the following is a greenhouse gas?",
+        "answerChoices": ["Nitrogen (N₂)", "Oxygen (O₂)", "Methane (CH₄)", "Helium (He)"],
+        "correctAnswer": "Methane (CH₄)"
+      },
+      {
+        "id": "question006",
+        "questionTitle": "How do human activities affect the greenhouse effect?",
+        "answerChoices": ["They reduce the amount of greenhouse gases in the atmosphere.", "They release extra greenhouse gases, intensifying the effect.", "They have no impact on the greenhouse effect.", "They cool the planet by blocking sunlight."],
+        "correctAnswer": "They release extra greenhouse gases, intensifying the effect."
+      }
+    ]
+  },
+  {
+    "id": "quiz003",
+    "questions": [
+      {
+        "id": "question007",
+        "questionTitle": "What does global warming specifically refer to?",
+        "answerChoices": ["Changes in weather patterns", "The rise in Earth’s average surface temperature", "Loss of biodiversity", "Changes in ocean currents"],
+        "correctAnswer": "The rise in Earth’s average surface temperature"
+      },
+      {
+        "id": "question008",
+        "questionTitle": "What is climate change?",
+        "answerChoices": ["Only the increase in temperatures worldwide", "The long-term shifts in weather patterns and global temperatures", "A temporary weather phenomenon", "An increase in volcanic activity"],
+        "correctAnswer": "The long-term shifts in weather patterns and global temperatures"
+      },
+      {
+        "id": "question009",
+        "questionTitle": "Which of the following is an impact of climate change?",
+        "answerChoices": ["Decrease in greenhouse gas emissions", "Shifts in weather patterns and extreme weather events", "Stabilization of ecosystems", "Reduced sea levels"],
+        "correctAnswer": "Shifts in weather patterns and extreme weather events"
+      }
+    ]
+  },
+  {
+    "id": "quiz004",
+    "questions": [
+      {
+        "id": "question010",
+        "questionTitle": "What are fossil fuels?",
+        "answerChoices": ["Renewable energy sources", "Sources of energy from ancient organic matter, like coal, oil, and natural gas", "Only natural gas", "A type of mineral used for electricity"],
+        "correctAnswer": "Sources of energy from ancient organic matter, like coal, oil, and natural gas"
+      },
+      {
+        "id": "question011",
+        "questionTitle": "Why does burning fossil fuels contribute to climate change?",
+        "answerChoices": ["It releases carbon dioxide, a greenhouse gas, into the atmosphere", "It produces clean energy with no emissions", "It reduces oxygen levels in the atmosphere", "It traps energy in the ground"],
+        "correctAnswer": "It releases carbon dioxide, a greenhouse gas, into the atmosphere"
+      },
+      {
+        "id": "question012",
+        "questionTitle": "What led to the increase in fossil fuel use over time?",
+        "answerChoices": ["Decrease in global population", "Industrialization and higher energy demand", "Reduction in natural resources", "Advancement in renewable energy"],
+        "correctAnswer": "Industrialization and higher energy demand"
+      }
+    ]
+  },
+  {
+    "id": "quiz005",
+    "questions": [
+      {
+        "id": "question013",
+        "questionTitle": "What role do forests play in managing carbon dioxide levels?",
+        "answerChoices": ["They produce carbon dioxide", "They act as carbon sinks, absorbing CO₂ from the atmosphere", "They prevent rainfall", "They increase CO₂ emissions naturally"],
+        "correctAnswer": "They act as carbon sinks, absorbing CO₂ from the atmosphere"
+      },
+      {
+        "id": "question014",
+        "questionTitle": "What happens when forests are cleared for agriculture or development?",
+        "answerChoices": ["CO₂ absorption is reduced, worsening climate change", "More oxygen is produced", "Carbon emissions are decreased", "Greenhouse gases are eliminated"],
+        "correctAnswer": "CO₂ absorption is reduced, worsening climate change"
+      },
+      {
+        "id": "question015",
+        "questionTitle": "How does cutting down trees contribute to climate change?",
+        "answerChoices": ["It releases stored carbon into the atmosphere", "It reduces greenhouse gases", "It has no effect on the atmosphere", "It decreases global temperatures"],
+        "correctAnswer": "It releases stored carbon into the atmosphere"
+      }
+    ]
+  },
+  {
+    "id": "quiz006",
+    "questions": [
+      {
+        "id": "question016",
+        "questionTitle": "Which greenhouse gas is primarily produced by livestock farming?",
+        "answerChoices": ["Carbon dioxide (CO₂)", "Methane (CH₄)", "Oxygen (O₂)", "Nitrous oxide (N₂O)"],
+        "correctAnswer": "Methane (CH₄)"
+      },
+      {
+        "id": "question017",
+        "questionTitle": "Why is methane considered a potent greenhouse gas?",
+        "answerChoices": ["It releases oxygen into the atmosphere", "It traps heat more effectively than CO₂", "It reduces atmospheric temperatures", "It breaks down rapidly in the atmosphere"],
+        "correctAnswer": "It traps heat more effectively than CO₂"
+      },
+      {
+        "id": "question018",
+        "questionTitle": "Which agricultural practices contribute to greenhouse gas emissions?",
+        "answerChoices": ["Rice paddies and nitrogen-based fertilisers", "Organic farming only", "Urban gardening", "Forest restoration"],
+        "correctAnswer": "Rice paddies and nitrogen-based fertilisers"
+      }
+    ]
+  },
+  {
+    "id": "quiz007",
+    "questions": [
+      {
+        "id": "question019",
+        "questionTitle": "How does climate change affect extreme weather events?",
+        "answerChoices": ["It reduces the frequency of natural disasters", "It increases the frequency and intensity of natural disasters", "It has no impact on natural disasters", "It only affects rainfall levels"],
+        "correctAnswer": "It increases the frequency and intensity of natural disasters"
+      },
+      {
+        "id": "question020",
+        "questionTitle": "Why do warmer ocean waters lead to stronger hurricanes?",
+        "answerChoices": ["They reduce hurricane formation", "They provide more energy for hurricanes to intensify", "They prevent coastal flooding", "They cool down hurricane winds"],
+        "correctAnswer": "They provide more energy for hurricanes to intensify"
+      },
+      {
+        "id": "question021",
+        "questionTitle": "Which of the following is an example of an extreme weather event intensified by climate change?",
+        "answerChoices": ["Seasonal changes", "Thunderstorms only", "Prolonged droughts and heavy rainfall", "Light rain showers"],
+        "correctAnswer": "Prolonged droughts and heavy rainfall"
+      }
+    ]
+  },
+  {
+    "id": "quiz008",
+    "questions": [
+      {
+        "id": "question022",
+        "questionTitle": "How does climate change affect ecosystems?",
+        "answerChoices": ["It stabilises habitats for all species", "It disrupts habitats, leading to shifts in biodiversity", "It increases the number of species in every ecosystem", "It has no impact on ecosystems"],
+        "correctAnswer": "It disrupts habitats, leading to shifts in biodiversity"
+      },
+      {
+        "id": "question023",
+        "questionTitle": "Why are coral reefs especially vulnerable to climate change?",
+        "answerChoices": ["They thrive in warmer water", "They are highly sensitive to temperature changes, leading to coral bleaching", "They require high levels of CO₂", "They are found only in cold-water regions"],
+        "correctAnswer": "They are highly sensitive to temperature changes, leading to coral bleaching"
+      },
+      {
+        "id": "question024",
+        "questionTitle": "Why is preserving ecosystems important for humans?",
+        "answerChoices": ["They provide food security, clean air, and climate regulation", "They prevent any changes in global weather", "They are unaffected by climate change", "They only benefit ocean life"],
+        "correctAnswer": "They provide food security, clean air, and climate regulation"
+      }
+    ]
+  },
+  {
+    "id": "quiz009",
+    "questions": [
+      {
+        "id": "question025",
+        "questionTitle": "How does climate change affect human health?",
+        "answerChoices": ["It reduces disease risk", "It increases risks such as heatwaves and vector-borne diseases", "It only affects animals", "It has no impact on health"],
+        "correctAnswer": "It increases risks such as heatwaves and vector-borne diseases"
+      },
+      {
+        "id": "question026",
+        "questionTitle": "Which industries are economically impacted by climate change?",
+        "answerChoices": ["Mining and manufacturing only", "Agriculture, fishing, and tourism", "Technology and finance", "Real estate and architecture"],
+        "correctAnswer": "Agriculture, fishing, and tourism"
+      },
+      {
+        "id": "question027",
+        "questionTitle": "Why are vulnerable populations at higher risk from climate change?",
+        "answerChoices": ["They have greater access to resources", "They may lack resources to adapt and may face food insecurity and displacement", "They are less affected by environmental changes", "They are not impacted by climate change"],
+        "correctAnswer": "They may lack resources to adapt and may face food insecurity and displacement"
+      }
+    ]
+  },
+  {
+    "id": "quiz010",
+    "questions": [
+      {
+        "id": "question028",
+        "questionTitle": "Which of the following is an energy-efficient change for the home?",
+        "answerChoices": ["Using incandescent bulbs", "Switching to LED bulbs", "Leaving electronics plugged in when not in use", "Using more appliances"],
+        "correctAnswer": "Switching to LED bulbs"
+      },
+      {
+        "id": "question029",
+        "questionTitle": "How does reducing energy use help the environment?",
+        "answerChoices": ["It decreases CO₂ emissions by reducing fossil fuel consumption", "It increases electricity demand", "It has no effect on emissions", "It leads to higher fossil fuel usage"],
+        "correctAnswer": "It decreases CO₂ emissions by reducing fossil fuel consumption"
+      },
+      {
+        "id": "question030",
+        "questionTitle": "Which transportation choice can reduce carbon emissions?",
+        "answerChoices": ["Driving solo", "Public transportation, cycling, or carpooling", "Using large vehicles for short trips", "Frequent air travel"],
+        "correctAnswer": "Public transportation, cycling, or carpooling"
+      }
+    ]
+  },
+  {
+    "id": "quiz011",
+    "questions": [
+      {
+        "id": "question031",
+        "questionTitle": "What are the key actions in waste management to reduce environmental impact?",
+        "answerChoices": ["Buying more products", "Reducing, reusing, and recycling", "Using single-use items", "Only recycling"],
+        "correctAnswer": "Reducing, reusing, and recycling"
+      },
+      {
+        "id": "question032",
+        "questionTitle": "How can choosing products with less packaging help the environment?",
+        "answerChoices": ["It increases waste", "It reduces the carbon footprint of goods", "It has no impact on the environment", "It raises production costs"],
+        "correctAnswer": "It reduces the carbon footprint of goods"
+      },
+      {
+        "id": "question033",
+        "questionTitle": "Why is buying from local, sustainable sources beneficial?",
+        "answerChoices": ["It supports long-distance transport", "It increases emissions", "It lowers the carbon footprint associated with goods", "It promotes waste"],
+        "correctAnswer": "It lowers the carbon footprint associated with goods"
+      }
+    ]
+  },
+  {
+    "id": "quiz012",
+    "questions": [
+      {
+        "id": "question034",
+        "questionTitle": "How does reducing meat consumption help the environment?",
+        "answerChoices": ["It has no effect on emissions", "It increases methane emissions", "It lowers methane emissions and resource use", "It increases the demand for land and water"],
+        "correctAnswer": "It lowers methane emissions and resource use"
+      },
+      {
+        "id": "question035",
+        "questionTitle": "Which animal produces methane as a byproduct of digestion, impacting climate change?",
+        "answerChoices": ["Chickens", "Cattle", "Fish", "Insects"],
+        "correctAnswer": "Cattle"
+      },
+      {
+        "id": "question036",
+        "questionTitle": "What is one benefit of shifting to a plant-based diet?",
+        "answerChoices": ["Increased demand for land", "Higher carbon footprint", "Reduced demand for resource-intensive products", "Higher water consumption"],
+        "correctAnswer": "Reduced demand for resource-intensive products"
+      }
+    ]
+  }
+]

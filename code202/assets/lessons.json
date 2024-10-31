@@ -1,0 +1,210 @@
+[
+  {
+    "id": "lesson001",
+    "name": "Intelligence",
+    "shortDescription": "Discover the basics of climate change, including what it is, how it happens, and why it’s an urgent issue. This section provides a clear introduction to the science behind climate change and its causes.",
+    "sublessons": [
+      {
+        "id": "sublesson001",
+        "title": "What is Climate Change?",
+        "lessonDescription": "An overview of climate change and how human activities are driving long-term changes in Earth’s climate.",
+        "imagePath": "",
+        "quizId": "quiz001",
+        "contents": [
+          "Climate change refers to long-term changes in global temperatures and weather patterns. While these shifts can happen naturally, over millions of years, human activities have significantly sped up these changes. This accelerated climate change is mainly driven by activities that increase greenhouse gases in our atmosphere. These gases trap heat, causing the Earth to warm in a process known as the greenhouse effect."
+        ],
+        "references": [
+          {
+            "url": "https://www.ipcc.ch/report/ar6/wg1/"
+          }
+        ]
+      },
+      {
+        "id": "sublesson002",
+        "title": "Understanding the Greenhouse Effect",
+        "lessonDescription": "Learn how greenhouse gases trap heat in the atmosphere, warming the planet and driving climate change.",
+        "imagePath": "",
+        "quizId": "quiz002",
+        "contents": [
+          "The greenhouse effect is a natural process that warms the Earth’s surface. When the sun's energy reaches the Earth, some of it is reflected back to space, and the rest is absorbed, warming the planet. Greenhouse gases, such as carbon dioxide (CO₂), methane (CH₄), and water vapour, trap some of this heat, preventing it from escaping into space. This keeps the Earth’s temperature within a range that can support life. However, human activities like burning fossil fuels (coal, oil, and natural gas) release extra greenhouse gases, intensifying the greenhouse effect and leading to global warming."
+        ],
+        "references": [
+          {
+            "url": "https://www.ipcc.ch/report/ar6/wg1/"
+          }
+        ]
+      },
+      {
+        "id": "sublesson003",
+        "title": "Global Warming vs. Climate Change",
+        "lessonDescription": "Understand the difference between global warming (temperature rise) and climate change (broader shifts in weather patterns and impacts).",
+        "imagePath": "",
+        "quizId": "quiz003",
+        "contents": [
+          "While often used interchangeably, global warming and climate change are not the same. Global warming specifically refers to the rise in Earth’s average surface temperature due to the increased levels of greenhouse gases. Climate change, however, refers to both global warming and its broader impacts, such as shifts in weather patterns, more frequent extreme weather events, and disruptions in ecosystems and biodiversity."
+        ],
+        "references": [
+          {
+            "url": "https://www.ipcc.ch/report/ar6/wg1/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson002",
+    "name": "Awareness",
+    "shortDescription": "Understand the causes and threats of climate change. Explore how activities like burning fossil fuels and deforestation are impacting weather patterns, sea levels, and wildlife, and learn why this matters for the planet.",
+    "sublessons": [
+      {
+        "id": "sublesson004",
+        "title": "Fossil Fuel Combustion",
+        "lessonDescription": "Explore how burning fossil fuels for energy releases carbon dioxide, a major driver of climate change.",
+        "imagePath": "",
+        "quizId": "quiz004",
+        "contents": [
+          "Burning fossil fuels like coal, oil, and natural gas for electricity, heat, and transportation is the largest source of carbon dioxide emissions. As societies industrialise, the demand for energy surged, and fossil fuels became the primary energy source, leading to a drastic increase in atmospheric CO₂ levels."
+        ],
+        "references": [
+          {
+            "url": "https://climate.nasa.gov/"
+          }
+        ]
+      },
+      {
+        "id": "sublesson005",
+        "title": "Deforestation and Land Use Changes",
+        "lessonDescription": "See how clearing forests for agriculture and development reduces carbon absorption, worsening climate change.",
+        "imagePath": "",
+        "quizId": "quiz005",
+        "contents": [
+          "Forests act as carbon sinks, absorbing CO₂ from the atmosphere. When forests are cleared for agriculture or urbanisation, this ability to absorb CO₂ is lost. Additionally, the process of cutting down trees and burning wood releases stored carbon, further increasing greenhouse gas levels."
+        ],
+        "references": [
+          {
+            "url": "https://climate.nasa.gov/"
+          }
+        ]
+      },
+      {
+        "id": "sublesson006",
+        "title": "Agricultural Practices",
+        "lessonDescription": "Learn how modern farming, especially livestock production, releases greenhouse gases that accelerate climate change.",
+        "imagePath": "",
+        "quizId": "quiz006",
+        "contents": [
+          "Modern industrial agriculture, particularly livestock farming, produces significant methane emissions. Methane is a potent greenhouse gas, trapping heat much more effectively than CO₂. Practices like rice paddies and the use of nitrogen-based fertilisers also release greenhouse gases."
+        ],
+        "references": [
+          {
+            "url": "https://climate.nasa.gov/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson003",
+    "name": "Resilience",
+    "shortDescription": "Learn about the impacts of climate change on the environment and society, focusing on extreme weather, ecosystem disruptions, and the importance of building resilience to adapt to these changes.",
+    "sublessons": [
+      {
+        "id": "sublesson007",
+        "title": "Extreme Weather Events",
+        "lessonDescription": "Learn how climate change increases the frequency and intensity of natural disasters like hurricanes, droughts, and floods.",
+        "imagePath": "",
+        "quizId": "quiz007",
+        "contents": [
+          "One of the most visible effects of climate change is the increase in extreme weather events. Rising global temperatures contribute to more intense hurricanes, prolonged droughts, and heavy rainfall leading to flooding. For example, warmer ocean waters can fuel stronger hurricanes, resulting in devastating impacts on coastal communities. As these events become more frequent and severe, they threaten lives, property, and infrastructure, highlighting the need for communities to enhance their preparedness and response strategies."
+        ],
+        "references": [
+          {
+            "url": "https://www.ipcc.ch/"
+          }
+        ]
+      },
+      {
+        "id": "sublesson008",
+        "title": "Impact on Ecosystems",
+        "lessonDescription": "Explore how rising temperatures and changing climates disrupt habitats, leading to shifts in biodiversity and species survival.",
+        "imagePath": "",
+        "quizId": "quiz008",
+        "contents": [
+          "Climate change disrupts ecosystems, leading to shifts in species distributions and changes in biodiversity. Many plant and animal species struggle to adapt to the rapid changes in their habitats. For instance, coral reefs are highly sensitive to temperature changes, and rising ocean temperatures can lead to coral bleaching, which jeopardises marine biodiversity and the livelihoods of communities reliant on fishing and tourism. Preserving ecosystems is essential not only for biodiversity but also for the services they provide, such as clean air and water, climate regulation, and food security."
+        ],
+        "references": [
+          {
+            "url": "https://www.ipcc.ch/"
+          }
+        ]
+      },
+      {
+        "id": "sublesson009",
+        "title": "Societal Impacts",
+        "lessonDescription": "Understand the social and economic consequences of climate change, including health risks, food insecurity, and displacement.",
+        "imagePath": "",
+        "quizId": "quiz009",
+        "contents": [
+          "The societal impacts of climate change are profound and far-reaching. Communities face increased risks to health and safety, with heatwaves, vector-borne diseases, and air quality issues becoming more prevalent. Economically, industries such as agriculture, fishing, and tourism can suffer significant losses due to changing climatic conditions. Vulnerable populations, particularly in developing regions, may face heightened food insecurity and displacement due to environmental changes. Building resilience involves not only adapting to these changes but also ensuring that communities have the resources and support systems to recover and thrive despite climate challenges."
+        ],
+        "references": [
+          {
+            "url": " https://www.ipcc.ch/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson004",
+    "name": "Strength",
+    "shortDescription": "Learn practical actions to help fight climate change. This section empowers you with steps to reduce your carbon footprint, support sustainable practices, and contribute to a healthier environment for everyone.",
+    "sublessons": [
+      {
+        "id": "sublesson010",
+        "title": "Energy Efficiency",
+        "lessonDescription": "Discover ways to reduce energy use at home, lowering carbon emissions and saving money.",
+        "imagePath": "",
+        "quizId": "quiz010",
+        "contents": [
+          "Simple changes like switching to LED bulbs, unplugging electronics when not in use, and using energy-efficient appliances can collectively reduce electricity demand. Lowering energy use reduces fossil fuel consumption and decreases CO₂ emissions. Individuals can also explore using public transportation, cycling, or carpooling to reduce transportation-related emissions."
+        ],
+        "references": [
+          {
+            "url": "https://www.un.org/sustainabledevelopment/climate-action/"
+          }
+        ]
+      },
+      {
+        "id": "sublesson011",
+        "title": "Mindful Consumption",
+        "lessonDescription": "Understand the importance of reducing waste and choosing sustainable products to minimise environmental impact.",
+        "imagePath": "",
+        "quizId": "quiz011",
+        "contents": [
+          "Reducing, reusing, and recycling are critical actions in waste management that reduce the need for new resources and lower emissions from waste. Being mindful of what we buy, choosing products with less packaging, and buying from local, sustainable sources help reduce the carbon footprint associated with goods."
+        ],
+        "references": [
+          {
+            "url": "https://www.un.org/sustainabledevelopment/climate-action/"
+          }
+        ]
+      },
+      {
+        "id": "sublesson012",
+        "title": "Dietary Changes",
+        "lessonDescription": "Explore how adopting a plant-based diet and reducing meat consumption can significantly lower your carbon footprint.",
+        "imagePath": "",
+        "quizId": "quiz012",
+        "contents": [
+          "Choosing plant-based foods more often and reducing meat consumption can significantly lower methane emissions. Livestock, especially cattle, produce methane during digestion, and industrial meat production requires extensive land, water, and resources. Shifting to a plant-rich diet can reduce demand for resource-intensive products."
+        ],
+        "references": [
+          {
+            "url": "https://www.un.org/sustainabledevelopment/climate-action/"
+          }
+        ]
+      }
+    ]
+  }
+]
